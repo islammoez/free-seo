@@ -1,0 +1,53 @@
+.All{
+    height: 800px;
+    background-color: #CBBEE7;
+}
+.left{
+   margin-top: 100px;
+   
+   
+}
+.left img{
+    height: 500px;
+    width: 500px;
+}
+.right{
+    margin-top: 50px;
+
+}
+.right h1{
+    font-size: 70px;
+    color: white;   
+    text-align: center;
+
+}
+.right p{
+    line-height: 30px;
+    color: white;
+    text-align:center;
+}
+form{
+    background-color: #F2F2F2;
+    padding: 30px;
+}
+/* form textarea{
+    height: 80px;
+    width: 365px; 
+    border-radius: 5px;
+} */
+
+ .button{
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+    width: 120px;
+    background-color: #866cc4e5;  
+    border: none;
+    margin-bottom: 20px;
+}
+
+.button:hover{
+    background-color:  #876CC4;
+}
